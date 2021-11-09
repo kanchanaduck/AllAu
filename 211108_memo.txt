@@ -1,0 +1,19 @@
+8-Nov-21
+
+1. Requirement
+- User requirement (ใช้เอกสารพี่ต๊อก)
+---------------------------------------
+2. Plan
+---------------------------------------
+3. Design and Specification
+- System overview: "\\cptfile01\Dept\2230\20_App\30_CPT_Original\00_Project Template\2021\System Development Documents\System Development Document (ICD).docx"
+//- Activity diagram: https://www.saladpuk.com/basic/uml/activity-diagram
+//- Flow chart:
+- User Interface List (ใบปะหน้า):  "\\cptfile01\Dept\2230\20_App\30_CPT_Original\2021\AAD-S_mart_online\03_Design\user\Review design (2) 23-08-2021.xlsx"
+- Design and Specification: "\\cptfile01\Dept\2230\20_App\30_CPT_Original\2014\07_S-Mart\Spec\Administration.xlsx"
+---------------------------------------
+4. Update plan 
+---------------------------------------
+5. Test
+- Test cases (ใช้เอกสารพี่ต๊อก) : "\\cptfile01\Dept\2230\20_App\30_CPT_Original\2021\ITC-Material Control System\05_Testing\02-Project test check-User.xlsx"
+---------------------------------------

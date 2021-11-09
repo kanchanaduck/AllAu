@@ -1,0 +1,70 @@
+PTF001, PTF003: Master Couse Control
+1. Search course and show data
+2. Create course
+3. Edit course
+4. Delete course
+5. Add more filter (new)
+6. Make excel report
+PTF002: Input training result, and register
+1. Search + show course data by Course no.
+2. Show trainee data by course
+3. Register trainee 
+4. Edit pre-test, post-test score on Web
+5. Import excel score (new)
+6. Delete trainee
+PTF005_02A: Input training result, and register continuous employee no.
+1. Show form + Create course
+2. Input employee no. start and end , pre-test, post-test to regiter and input score of trainee
+3. Show result of register
+PTF006: Register trainee
+1. Search + show course data by Course no.
+2. Input employee no. to register in course
+3. Check count(trainee) > cap after enter employee no.  (new)
+4. If success show employee data after enter employee no. 
+5. If not success show waiting list and sequence  (new)
+6. Manager approve employee own dept
+7. Center view data, program show data and count data
+8. Center approve all CPT
+PTP001, PTP003: Show trainee and result of course no.
+1. Search + show course data by Course no.
+2. Show all trainee and data
+3. Export excel
+4. Make PDF report  (new)
+5. Send email to trainee and trainer  (new)
+PTP005: ใบเซ็นชื่อ
+1. Parameter course no.
+2. Make PDF report
+PTP006: ดูว่าพนักงานแต่ละคนเรียนผ่านคอร์สอะไรมาบ้าง
+1. Parameter employee no.
+2. Make PDF report
+3. Export excel
+PAP313: ดู Manpower แบบเลือก period ได้
+1. Parameter date start and date end
+2. Make PDF report
+TRAINING_D5, TRAINING_D13, TRAINING_D24-27: Employee data
+1. Parameter course no.
+2. Show employee data
+3. Make Excel
+TRAINING_D8: Count trainee of course
+1. Parameter course no.
+2. Show count
+3. Make Excel
+TRAINING_D29: Employee data (own department)
+1. Parameter course no.
+2. Show employee data
+3. Make Excel
+TRAINING_M1: Skill map own dept
+1. Show table header is course no.: course english name
+2. Export excel
+TRAINING_D30: Education employee data (PGA-1 ดู)
+1. Parameter employee data
+2. Show employee data
+3. Make Excel
+TRAINING_D31: Promotion employee data (PGA-1 ดู)
+1. Parameter employee data
+2. Show employee data
+3. Make Excel
+TRAINING_D32-39: Target group pf course (PGA-1 ดู)
+1. Parameter employee data
+2. Show employee data
+3. Make Excel
